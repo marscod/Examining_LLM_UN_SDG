@@ -1,8 +1,13 @@
 This repository provides dataset and other materials for the paper entitled: 
 ### Examining LLM's Awareness of the United Nations Sustainable Development Goals (SDGs)
 
+
+
 <p align="center">
+
 <img src="https://github.com/marscod/Examining_LLM_UN_SDG/blob/main/overall_final.png" width="60%">
+<img width="235" alt="image" src="https://user-images.githubusercontent.com/16926558/235287304-fd782612-1851-4249-b8a7-ba0e64a016d5.png">
+
 </p>
 
 ## Structure 
