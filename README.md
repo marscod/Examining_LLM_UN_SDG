@@ -1,4 +1,9 @@
-This repository provides dataset and other materials for paper entitled: "[Examining LLM's Awareness of the United Nations Sustainable Development Goals (SDGs)](https://openreview.net/pdf?id=0oubWlDUIa)".
+This repository provides dataset and other materials for the paper entitled: 
+### Examining LLM's Awareness of the United Nations Sustainable Development Goals (SDGs)
+
+<p align="center">
+<img src="https://github.com/marscod/Examining_LLM_UN_SDG/blob/main/overall_final.png" width="60%">
+</p>
 
 ## Structure 
 `dataset` folder include evaluation dataset in different formats that include both manual statements auto generated statements of true/false statements.
