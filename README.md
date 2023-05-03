@@ -10,6 +10,8 @@ This repository provides dataset and other materials for the paper entitled:
 
 </p>
 
+Poster can be found [here](https://github.com/marscod/Examining_LLM_UN_SDG/blob/main/LLM_UN_SDG_Poster.pdf).
+
 ## Structure 
 `dataset` folder include evaluation dataset in different formats that include both manual statements auto generated statements of true/false statements.
 
