@@ -14,7 +14,7 @@ Poster can be found [here](https://github.com/marscod/Examining_LLM_UN_SDG/blob/
 
 ## Structure 
 `dataset` folder include evaluation dataset in different formats that include both manual statements auto generated statements of true/false statements.
-
+Note that the following false statements may contain biases, discrimination, and prejudice and true statement may not necessarily reflect the truth.
 
 We select six topics related to UN SDGs. We consider two experimental setups---one with automatically generated text and another with manually crafted text. 
 
